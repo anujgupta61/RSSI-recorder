@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/RSSI/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/anuj/AndroidStudioProjects/RSSI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/RSSI/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/anuj/AndroidStudioProjects/RSSI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/RSSI/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/anuj/AndroidStudioProjects/RSSI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/RSSI/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/anuj/AndroidStudioProjects/RSSI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/RSSI/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/anuj/AndroidStudioProjects/RSSI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action.xml"
+    }
+]

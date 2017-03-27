@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RSSI Recorder</string>
+
+    <string name="loading">About to start</string>
+    <string name="running">App currently in progress</string>
+</resources>
